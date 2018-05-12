@@ -1,0 +1,64 @@
+_repo: Letters-of-Abelard-and-Heloise--13-To-which-is-prefix-d-a-particular-account-of-their-lives-a__35977
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+  - agent_name: Madan, Judith
+    alias: Madan, Mrs. (Judith)
+    birthdate: 1702
+    deathdate: 1781
+    gutenberg_agent_id: '43832'
+    url: http://www.gutenberg.org/2009/agents/43832
+  translator:
+    agent_name: Hughes, John
+    birthdate: 1677
+    deathdate: 1720
+    gutenberg_agent_id: '38038'
+    url: http://www.gutenberg.org/2009/agents/38038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Héloïse
+    aliases:
+    - Eloisa
+    - Heloise
+    - Heloísa
+    deathdate: 1163
+    gutenberg_agent_id: '38039'
+    url: http://www.gutenberg.org/2009/agents/38039
+  - agent_name: Abelard, Peter
+    aliases:
+    - Abélard, Pierre
+    - Abaelardus, Petrus
+    - Abeilard, Pierre
+    birthdate: 1079
+    deathdate: 1142
+    gutenberg_agent_id: '5441'
+    url: http://www.gutenberg.org/2009/agents/5441
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
+description: ''
+gutenberg_issued: '2011-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love-letters'
+- !lcsh 'Authors, Latin (Medieval and modern) -- France -- Correspondence'
+- !lcsh 'Abelard, Peter, 1079-1142 -- Correspondence'
+- !lcc 'PA'
+- !lcsh 'Héloïse, approximately 1095-1163 or 1164 -- Correspondence'
+title: "Letters of Abelard and Heloise\r\nTo which is prefix'd a particular account\
+  \ of their lives, amours, and misfortunes"
+url: http://www.gutenberg.org/ebooks/35977
