@@ -45,6 +45,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5441
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35977#Letters-of-Abelard-and-Heloise--13-To-which-is-prefix-d-a-particular-account-of-their-lives-a_
 gutenberg_issued: '2011-04-27'
 gutenberg_type: Text
 identifiers:
